@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Just me and nothing else
+Just me and nothing else
 
 
 <!--START_SECTION:waka-->
