@@ -4,26 +4,14 @@ Just me and nothing else
 
 
 <!--START_SECTION:waka-->
-name: Waka Readme
+From: 10 July 2020 - To: 06 August 2022
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+Total Time: 1,464 hrs 54 mins
 
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
+Markdown           132 hrs 33 mins >>-----------------------   08.43 %
+TeX                103 hrs 52 mins >>-----------------------   06.61 %
+HTML               94 hrs 48 mins  >>-----------------------   06.03 %
+Nim                64 hrs 31 mins  >------------------------   04.11 %
+Other              47 hrs 58 mins  >------------------------   03.05 %
 <!--END_SECTION:waka-->
