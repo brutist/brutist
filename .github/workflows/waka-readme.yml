@@ -1,4 +1,4 @@
- name: Waka Readme
+ name: mauring55 Readme
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Mauring DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: mauring55/waka-readme@master
