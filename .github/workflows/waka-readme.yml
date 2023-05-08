@@ -1,18 +1,21 @@
-name: mauring55 Readme
+name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: '30 18 * * *'
+    - cron: '30 6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Mauring DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: mauring55/mauring55/waka-readme@main
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #COMMIT_MESSAGE: "Initial Commit"
           # GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
