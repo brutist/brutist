@@ -1,10 +1,9 @@
- name: mauring55 Readme
+name: mauring55 Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    # Runs at 05:00PM UTC = 00:00AM +7
-    - cron: '0 */4 * * *'
+    - cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
   update-readme:
