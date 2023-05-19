@@ -25,3 +25,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LINES_OF_CODE: "True"
