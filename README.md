@@ -35,14 +35,13 @@ Sunday                   145 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Python                   1 hr 11 mins        ███████████████████████░░   93.14 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
