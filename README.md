@@ -37,21 +37,16 @@ Sunday                   146 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-CSS                      1 hr 5 mins         ████████████████░░░░░░░░░   62.09 % 
-HTML                     37 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-repos                    1 hr 45 mins        █████████████████████████   99.94 % 
-css-exercises            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -69,5 +64,5 @@ C                        1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mauring55/mauring55/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2024 18:40:05 UTC
+ Last Updated on 17/03/2024 06:33:11 UTC
 <!--END_SECTION:waka-->
