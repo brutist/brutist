@@ -4,7 +4,7 @@ Just me and nothing else
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
@@ -37,16 +37,20 @@ Sunday                   146 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      27 mins             █████████████████░░░░░░░░   68.73 % 
+HTML                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+css-exercises            39 mins             █████████████████████████   98.55 % 
+repos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +68,5 @@ C                        1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mauring55/mauring55/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2024 18:39:59 UTC
+ Last Updated on 19/03/2024 06:32:59 UTC
 <!--END_SECTION:waka-->
