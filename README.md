@@ -4,9 +4,9 @@ Just me and nothing else
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -37,20 +37,20 @@ Sunday                   125 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Racket                   24 hrs 23 mins      ████████████████████████░   97.07 % 
-Standard ML              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Racket                   24 hrs 23 mins      ███████████████████████░░   91.11 % 
+Ruby                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  26 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OSSU-Computer-Science-Cou25 hrs 8 mins       █████████████████████████   100.00 % 
+OSSU-Computer-Science-Cou26 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    25 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    26 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,5 +68,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:40:39 UTC
+ Last Updated on 29/05/2024 06:37:17 UTC
 <!--END_SECTION:waka-->
