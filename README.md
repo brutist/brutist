@@ -4,7 +4,7 @@ Just me and nothing else
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -37,18 +37,18 @@ Sunday                   161 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Java                     11 hrs 5 mins       █████████████████████████   99.02 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     10 hrs 34 mins      █████████████████████████   99.54 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 11 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            10 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OSSU-Computer-Science-Cou11 hrs 11 mins      █████████████████████████   100.00 % 
+OSSU-Computer-Science-Cou10 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +66,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2024 18:40:47 UTC
+ Last Updated on 05/08/2024 06:40:49 UTC
 <!--END_SECTION:waka-->
