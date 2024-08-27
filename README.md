@@ -4,7 +4,7 @@ Just me and nothing else
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,17 +37,17 @@ Sunday                   170 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-C++                      12 hrs 27 mins      █████████████████████████   99.82 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+C++                      14 hrs 58 mins      █████████████████████████   99.61 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OSSU-Computer-Science-Cou12 hrs 29 mins      █████████████████████████   100.00 % 
+OSSU-Computer-Science-Cou15 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +65,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2024 18:42:53 UTC
+ Last Updated on 27/08/2024 06:40:56 UTC
 <!--END_SECTION:waka-->
