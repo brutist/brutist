@@ -4,15 +4,13 @@ Just me and nothing else
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 311.5 kB Used in GitHub's Storage 
- > 
-> 🏆 817 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,16 +45,16 @@ Sunday                   188 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OSSU-Computer-Science-Cou11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +72,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2024 18:45:23 UTC
+ Last Updated on 08/10/2024 06:43:50 UTC
 <!--END_SECTION:waka-->
