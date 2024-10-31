@@ -4,15 +4,13 @@ Just me and nothing else
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 311.5 kB Used in GitHub's Storage 
- > 
-> 🏆 817 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,5 +72,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2024 06:43:40 UTC
+ Last Updated on 31/10/2024 18:46:46 UTC
 <!--END_SECTION:waka-->
