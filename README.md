@@ -45,18 +45,16 @@ Sunday                   188 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Python                   2 hrs 3 mins        █████████████░░░░░░░░░░░░   50.20 % 
-Text                     2 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.76 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-class_schduler           4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +72,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 18:44:55 UTC
+ Last Updated on 08/11/2024 06:43:03 UTC
 <!--END_SECTION:waka-->
