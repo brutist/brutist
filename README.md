@@ -12,8 +12,6 @@ Just me and nothing else
 
 > 📦 311.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -74,5 +72,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 06:41:32 UTC
+ Last Updated on 05/01/2025 18:43:03 UTC
 <!--END_SECTION:waka-->
