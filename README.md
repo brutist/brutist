@@ -10,7 +10,9 @@ Just me and nothing else
 
 **🐱 My GitHub Data** 
 
-> 📦 336.5 kB Used in GitHub's Storage 
+> 📦 334.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +47,16 @@ Sunday                   224 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Python                   42 mins             ███████████████░░░░░░░░░░   59.16 % 
-Text                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-up-research              1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +74,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brutist/brutist/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:46:24 UTC
+ Last Updated on 14/02/2025 06:42:04 UTC
 <!--END_SECTION:waka-->
